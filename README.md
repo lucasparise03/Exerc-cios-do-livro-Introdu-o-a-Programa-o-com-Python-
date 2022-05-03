@@ -1,1 +1,3 @@
-# Exerc-cios-do-livro-Introdu-o-a-Programa-o-com-Python-
+# Exercios do livro Introduçoa Programaçãp com Python-
+
+#Exercises from the book Introducing Programming with Python-
